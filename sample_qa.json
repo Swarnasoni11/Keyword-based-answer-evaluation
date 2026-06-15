@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "subject": "Biology",
+    "question": "What is photosynthesis?",
+    "reference_answer": "Photosynthesis is the process by which plants use sunlight, water, and carbon dioxide to produce glucose and oxygen.",
+    "student_answers": [
+      {
+        "student_id": "S001",
+        "answer": "Plants use sunlight and water to make food and release oxygen.",
+        "expected_score_range": "6-8"
+      },
+      {
+        "student_id": "S002",
+        "answer": "Photosynthesis is when plants make glucose using sunlight, water, and carbon dioxide and release oxygen.",
+        "expected_score_range": "9-10"
+      },
+      {
+        "student_id": "S003",
+        "answer": "Plants grow using sunlight.",
+        "expected_score_range": "1-3"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "subject": "Physics",
+    "question": "What is Newton's second law of motion?",
+    "reference_answer": "Newton's second law states that the force acting on an object is equal to the mass of the object multiplied by its acceleration (F = ma).",
+    "student_answers": [
+      {
+        "student_id": "S001",
+        "answer": "Force equals mass times acceleration.",
+        "expected_score_range": "7-9"
+      },
+      {
+        "student_id": "S002",
+        "answer": "An object accelerates when a force is applied based on its mass.",
+        "expected_score_range": "6-8"
+      },
+      {
+        "student_id": "S003",
+        "answer": "Objects in motion stay in motion.",
+        "expected_score_range": "0-2"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "subject": "Chemistry",
+    "question": "What is the chemical formula for water and describe its properties?",
+    "reference_answer": "Water is H2O, consisting of two hydrogen atoms and one oxygen atom. It is a polar molecule, a good solvent, and exists in liquid, solid, and gas states.",
+    "student_answers": [
+      {
+        "student_id": "S001",
+        "answer": "Water is H2O with hydrogen and oxygen. It can be liquid, solid like ice, or gas like steam.",
+        "expected_score_range": "6-8"
+      },
+      {
+        "student_id": "S002",
+        "answer": "H2O is the formula for water.",
+        "expected_score_range": "2-4"
+      }
+    ]
+  }
+]
